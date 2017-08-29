@@ -1,2 +1,3 @@
 # front-end-journey
-front-end-journey
+
+自我的前端之路，持续整理中......
